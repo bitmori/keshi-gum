@@ -1,0 +1,34 @@
+{
+  "name": "keshi-gum",
+  "version": "0.0.1",
+  "description": "Strip console.log/time/profile statements from a rocambole AST",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Neonphytismo",
+  "keywords": [
+    "rocambole",
+    "esprima",
+    "ast",
+    "strip",
+    "remove",
+    "delete",
+    "clean",
+    "debug",
+    "console",
+    "logging",
+    "js",
+    "javascript",
+    "ast",
+    "esprima"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "rocambole-node-update": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "rocambole": "^0.7.0"
+  }
+}
